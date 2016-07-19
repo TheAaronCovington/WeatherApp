@@ -126,7 +126,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="MONDAY:"
+                    android:text="--"
                     android:id="@+id/lblDay1"
                     android:layout_column="0"
                     android:textColor="#ffffff"
@@ -144,7 +144,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="100"
+                    android:text="--"
                     android:id="@+id/lblDay1High"
                     android:layout_column="22"
                     android:textSize="22dp"
@@ -155,11 +155,11 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="100"
+                    android:text="--"
                     android:id="@+id/lblDay1Low"
                     android:layout_column="26"
                     android:textSize="22dp"
-                    android:textColor="#ffffff"
+                    android:textColor="#4a4949"
                     android:layout_marginLeft="15dp"
                     android:layout_marginTop="7sp" />
             </TableRow>
@@ -170,7 +170,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="MONDAY:"
+                    android:text="--"
                     android:id="@+id/lblDay2"
                     android:layout_column="0"
                     android:textColor="#ffffff"
@@ -188,7 +188,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="100"
+                    android:text="--"
                     android:id="@+id/lblDay2High"
                     android:layout_column="22"
                     android:textSize="22dp"
@@ -199,11 +199,11 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="100"
+                    android:text="--"
                     android:id="@+id/lblDay2Low"
                     android:layout_column="26"
                     android:textSize="22dp"
-                    android:textColor="#ffffff"
+                    android:textColor="#4a4949"
                     android:layout_marginLeft="15dp"
                     android:layout_marginTop="7sp" />
             </TableRow>
@@ -214,7 +214,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="MONDAY:"
+                    android:text="--"
                     android:id="@+id/lblDay3"
                     android:layout_column="0"
                     android:textColor="#ffffff"
@@ -232,7 +232,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="100"
+                    android:text="--"
                     android:id="@+id/lblDay3High"
                     android:layout_column="22"
                     android:textSize="22dp"
@@ -243,11 +243,11 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="100"
+                    android:text="--"
                     android:id="@+id/lblDay3Low"
                     android:layout_column="26"
                     android:textSize="22dp"
-                    android:textColor="#ffffff"
+                    android:textColor="#4a4949"
                     android:layout_marginLeft="15dp"
                     android:layout_marginTop="7sp" />
             </TableRow>
@@ -258,7 +258,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="MONDAY:"
+                    android:text="--"
                     android:id="@+id/lblDay4"
                     android:layout_column="0"
                     android:textColor="#ffffff"
@@ -276,7 +276,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="100"
+                    android:text="--"
                     android:id="@+id/lblDay4High"
                     android:layout_column="22"
                     android:textSize="22dp"
@@ -287,11 +287,11 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="100"
+                    android:text="--"
                     android:id="@+id/lblDay4Low"
                     android:layout_column="26"
                     android:textSize="22dp"
-                    android:textColor="#ffffff"
+                    android:textColor="#4a4949"
                     android:layout_marginLeft="15dp"
                     android:layout_marginTop="7sp" />
             </TableRow>
@@ -302,7 +302,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="MONDAY:"
+                    android:text="--"
                     android:id="@+id/lblDay5"
                     android:layout_column="0"
                     android:textColor="#ffffff"
@@ -320,7 +320,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="100"
+                    android:text="--"
                     android:id="@+id/lblDay5High"
                     android:layout_column="22"
                     android:textSize="22dp"
@@ -331,11 +331,11 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="100"
+                    android:text="--"
                     android:id="@+id/lblDay5Low"
                     android:layout_column="26"
                     android:textSize="22dp"
-                    android:textColor="#ffffff"
+                    android:textColor="#4a4949"
                     android:layout_marginLeft="15dp"
                     android:layout_marginTop="7sp" />
             </TableRow>
@@ -346,7 +346,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="MONDAY:"
+                    android:text="--"
                     android:id="@+id/lblDay6"
                     android:layout_column="0"
                     android:textColor="#ffffff"
@@ -364,7 +364,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="100"
+                    android:text="--"
                     android:id="@+id/lblDay6High"
                     android:layout_column="22"
                     android:textSize="22dp"
@@ -375,11 +375,11 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="100"
+                    android:text="--"
                     android:id="@+id/lblDay6Low"
                     android:layout_column="26"
                     android:textSize="22dp"
-                    android:textColor="#ffffff"
+                    android:textColor="#4a4949"
                     android:layout_marginLeft="15dp"
                     android:layout_marginTop="7sp" />
             </TableRow>
